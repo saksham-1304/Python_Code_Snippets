@@ -27,3 +27,14 @@ print(temperature)
 print(name)
 print(is_student)
 print(grades)
+
+"""
+#Output
+
+25
+98.6
+Saksham Singh Rathore
+True
+[85, 90, 75, 95, 88]
+
+"""
