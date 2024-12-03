@@ -1,3 +1,5 @@
+# Int data type
+
 # assign an int object to a variable
 x = 5
 # assign another variable with this
